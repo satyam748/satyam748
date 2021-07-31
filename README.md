@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently pursuing my Masters in Computer Science from NITK Surathkal.
 
-- 👨‍💻 Please have a look on my personal portfolio https://satyam748.github.io/.
-
 - 🌱 I’m on track for learning more about Data Structure & Algorithms, Web Development and Deep Learning.
 
 - ✍ In free time, I like to do photography, making unboxing videos for YouTube and video editing.
+
+- 👨‍💻 Please have a look on my personal portfolio https://satyam748.github.io/.
 
 <h3 align="left">🔗 Connect with me :</h3>
 <p align="left">
